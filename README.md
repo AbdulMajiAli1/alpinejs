@@ -11,7 +11,7 @@ yarn dev
 
 # For final outcome with purging/minification
 # docs/assets/css/style.css
-yarn build
+yarn build.
 
 ```
 
